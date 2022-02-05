@@ -4,64 +4,783 @@ title: Calendar
 uid: 7edd8727-8b83-5c00-cc42-da0b9b542115
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: iPhone components | &nbsp; |
-| 2 | Energy and power | Problem set 1 out |
-| 3 | Electrical vs. gas engine | &nbsp; |
-| 4 | Energy in electrical systems | &nbsp; |
-| 5 | Electrostatics (Gauss's law and boundary conditions) | &nbsp; |
-| 6 | Magnetostatics (magnetic fields and forces) |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| &nbsp; | **Lab 1: DC motor, MATLAB, oscilloscope** | &nbsp; |
-| 7 | Forces in magnetostatics (actuators) | &nbsp; |
-| 8 | Practical MQS systems (torroids, solenoids, magnets) | &nbsp; |
-| 9 | Magnetic materials | &nbsp; |
-| 10 | Faraday's law (induced emf) |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| 11 | Magnetic circuits and transformers | &nbsp; |
-| 12 | Forces via energy conservation (energy method) | &nbsp; |
-| 13 | Stored energy and magnetic actuators |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| 14 | Energy conversion systems: rail guns | &nbsp; |
-| 15 | Dielectrics and dipoles | &nbsp; |
-| 16 | Practical dielectrics | &nbsp; |
-| 17 | Limits of statics and quasistatics | &nbsp; |
-| &nbsp; | **Lab 2: Shooting magnets** | &nbsp; |
-| 18 | Linear systems, complex numbers and phasors | &nbsp; |
-| 19 | Electromagnetic waves (wave equation) |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}}  |
-| &nbsp; | **Exam 1** | &nbsp; |
-| 20 | Examples of uniform EM plane waves (Poynting vector) | &nbsp; |
-| 21 | Generating EM waves: antennas | &nbsp; |
-| 22 | Interaction of atoms and EM waves (Lorentz oscillator) | &nbsp; |
-| 23 | Lossy EM waves | &nbsp; |
-| 24 | Polarized light and polarizers |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Problem set 6 out {{< br >}}{{< br >}}  |
-| 25 | Birefringence | &nbsp; |
-| 26 | Liquid crystal display (LCD) technology | &nbsp; |
-| 27 | Interference and diffraction | &nbsp; |
-| 28 | Diffraction and holography |  {{< br >}}{{< br >}} Problem set 6 due {{< br >}}{{< br >}} Problem set 7 out {{< br >}}{{< br >}}  |
-| &nbsp; | **Lab 3: Liquid crystal displays** | &nbsp; |
-| 29 | Reflection and transmission of EM waves | &nbsp; |
-| 30 | EM reflection and transmission in layered media | &nbsp; |
-| 31 | Optical resonators | &nbsp; |
-| 32 | Refraction and Snell's law |  {{< br >}}{{< br >}} Problem set 7 due {{< br >}}{{< br >}} Problem set 8 out {{< br >}}{{< br >}}  |
-| 33 | Fresnel equations and EM power flow | &nbsp; |
-| 34 | Waveguides (optical systems) | &nbsp; |
-| 35 | Wavepackets | &nbsp; |
-| 36 | Photon: quantum of energy |  {{< br >}}{{< br >}} Problem set 8 due {{< br >}}{{< br >}} Problem set 9 out {{< br >}}{{< br >}}  |
-| &nbsp; | **Lab 4: Spectrometer** | &nbsp; |
-| 37 | Photon momentum and uncertainty | &nbsp; |
-| 38 | Examples of Heisenberg uncertainty principle | &nbsp; |
-| &nbsp; | **Exam 2** | &nbsp; |
-| 39 | Schrodinger equation | &nbsp; |
-| 40 | Particle in a box | &nbsp; |
-| 41 | Reflection from a potential step | &nbsp; |
-| 42 | Tunneling |  {{< br >}}{{< br >}} Problem set 9 due {{< br >}}{{< br >}} Problem set 10 out {{< br >}}{{< br >}}  |
-| &nbsp; | **Lab 5: Quantum mechanical tunneling** | &nbsp; |
-| 43 | Tunneling applications (flash memory, STM) | &nbsp; |
-| 44 | From atoms to molecules | &nbsp; |
-| 45 | Semiconductors | &nbsp; |
-| 46 | Light emitting diodes (LEDs) | &nbsp; |
-| 47 | Photodetectors, solar cells | &nbsp; |
-| 48 | Electron wavepackets and microscopic Ohm's law | Problem set 10 due |
-| 49 | Quantum superposition and optical transitions | &nbsp; |
-| 50 | Lasers | &nbsp; |
-| &nbsp; | **Lab 6: Extra credit lab** | &nbsp; |
-| 51 | Final exam review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: iPhone components
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Energy and power
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Electrical vs. gas engine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Energy in electrical systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electrostatics (Gauss's law and boundary conditions)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetostatics (magnetic fields and forces)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Lab 1: DC motor, MATLAB, oscilloscope**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Forces in magnetostatics (actuators)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Practical MQS systems (torroids, solenoids, magnets)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Faraday's law (induced emf)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic circuits and transformers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Forces via energy conservation (energy method)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Stored energy and magnetic actuators
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Energy conversion systems: rail guns
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Dielectrics and dipoles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Practical dielectrics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Limits of statics and quasistatics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Lab 2: Shooting magnets**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Linear systems, complex numbers and phasors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic waves (wave equation)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Exam 1**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of uniform EM plane waves (Poynting vector)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Generating EM waves: antennas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Interaction of atoms and EM waves (Lorentz oscillator)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Lossy EM waves
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Polarized light and polarizers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Problem set 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Birefringence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Liquid crystal display (LCD) technology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Interference and diffraction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Diffraction and holography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due
+
+Problem set 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Lab 3: Liquid crystal displays**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection and transmission of EM waves
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+EM reflection and transmission in layered media
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Optical resonators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Refraction and Snell's law
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 due
+
+Problem set 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Fresnel equations and EM power flow
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Waveguides (optical systems)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Wavepackets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Photon: quantum of energy
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 8 due
+
+Problem set 9 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Lab 4: Spectrometer**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Photon momentum and uncertainty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of Heisenberg uncertainty principle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Exam 2**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Schrodinger equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Particle in a box
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection from a potential step
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Tunneling
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 9 due
+
+Problem set 10 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Lab 5: Quantum mechanical tunneling**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Tunneling applications (flash memory, STM)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+From atoms to molecules
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Semiconductors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Light emitting diodes (LEDs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Photodetectors, solar cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Electron wavepackets and microscopic Ohm's law
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+49
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum superposition and optical transitions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+Lasers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Lab 6: Extra credit lab**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+51
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
