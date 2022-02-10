@@ -1,7 +1,10 @@
 ---
 content_type: video_gallery
+description: ''
 is_media_gallery: true
-title: Lab Videos
+learning_resource_types: []
+title: Lab Videossssss
+type: CourseSection
 uid: 2421c81f-1aa3-b66f-da43-e569b0690de9
 videos:
   content:
@@ -12,8 +15,7 @@ videos:
   - 0614cff5-7b25-e04e-d821-bbe6c7264793
   website: 6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011
 ---
-
-The following videos were created by Dr. Yu Gu, with contributions from Kyle Hounsell and Dimitri Megretski, and are used with permission.
+TTTTTTTThe following videos were created by Dr. Yu Gu, with contributions from Kyle Hounsell and Dimitri Megretski, and are used with permission.
 
 {{< video-gallery "2421c81f-1aa3-b66f-da43-e569b0690de9" >}}
 

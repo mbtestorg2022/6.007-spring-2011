@@ -1,10 +1,13 @@
 ---
 content_type: page
-title: Readings
+description: ''
+learning_resource_types:
+- Readings
+title: Readingsssss
+type: CourseSection
 uid: 409fa6f9-bceb-2eda-ca06-c85dc0ae92d8
 ---
-
-Textbooks
+Textbooksssssss
 ---------
 
 French, Anthony, and Edwin Taylor. _An Introduction to Quantum Physics_. W. W. Norton, 1978. ISBN: 9780393091069.
